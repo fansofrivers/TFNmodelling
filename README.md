@@ -6,6 +6,9 @@ van Dijk, W.M., Densmore, A.L., Jackson, C.R., Mackay, J.D., Joshi, S.K., Sinha,
 
 Input data consist of Input file, Observations, Calibration and Evaluation file.
 
+The time-series analysis is written with AquiMod, that has been produced by British Geological Survey, that is free availble at
+https://www.bgs.ac.uk/research/environmentalModelling/aquimod.html The adapted version for this study is uploaded here as well.
+
 %%%%%%<br/>
 Input.tx includes of<br/>
 Component IDs (type of time-series analysis, for published study this is 6 2 9)<br/>
@@ -58,3 +61,8 @@ Evaluation\IRF_eval.txt (is output from calibration, file output\IRF_calib.out)<
 A(-)	b(-)	n(-)	f(-)	AlphaW(-)	BetaW(-)	GamaW(-)	d(m)  I(mm)	Lambda<br/>
 <br/>
 Output is used in the paper.
+
+Files uploaded here are
+Aquimod_IRF_17.exe (used Aquimod version)
+Observations_.xlsx (input data for the model study given per grid cell with a size of 10x10 km)
+Example.zip (input and output file of one location)
