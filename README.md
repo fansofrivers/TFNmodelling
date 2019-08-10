@@ -60,9 +60,9 @@ Canal irrigation loss coefficient<br/>
 Evaluation\IRF_eval.txt (is output from calibration, file output\IRF_calib.out)<br/>
 A(-)	b(-)	n(-)	f(-)	AlphaW(-)	BetaW(-)	GamaW(-)	d(m)  I(mm)	Lambda<br/>
 <br/>
-Output is used in the paper.
-
-Files uploaded here are
-Aquimod_IRF_17.exe (used Aquimod version)
-Observations_.xlsx (input data for the model study given per grid cell with a size of 10x10 km)
-Example.zip (input and output file of one location)
+Output is used in the paper.<br/>
+<br/>
+Files uploaded here are<br/>
+Aquimod_IRF_17.exe (used Aquimod version)<br/>
+Observations_.xlsx (input data for the model study given per grid cell with a size of 10x10 km)<br/>
+Example.zip (input and output file of one location).<br/>
