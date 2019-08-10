@@ -6,7 +6,7 @@ van Dijk, W.M., Densmore, A.L., Jackson, C.R., Mackay, J.D., Joshi, S.K., Sinha,
 
 Input data consist of Input file, Observations, Calibration and Evaluation file.
 
-%%%%%%
+%%%%%%<br/>
 Input.tx includes of<br/>
 Component IDs (type of time-series analysis, for published study this is 6 2 9)<br/>
 6 2 9<br/>
